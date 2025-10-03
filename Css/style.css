@@ -18,3 +18,13 @@ header{
     padding: 50px;
     /*margen interno*/
 }
+
+#Foto-perfil{
+    border-radius: 20px;
+}
+article{
+    border:solid #980e0e 2px;
+    width: 30;
+    float: left;
+    
+}
